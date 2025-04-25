@@ -12,7 +12,7 @@ This project analyzes battery cycling data, detects and removes anomalies using 
 
 ## 🖼️ Final Visualization Output
 
-![Final Cleaned Smooth Discharge Curves](https://github.com/SubrinaSabur/Battery-Data-Analytics/blob/main/docs/images/final_discharge_curve.png)
+![Final Cleaned Smooth Discharge Curves]( https://github.com/SubrinaSabur/-Battery-Data-Analytics-and-Lab-Automation/blob/main/Final%20Cleaned%20Smooth%20Discharge%20Curves.png)
 
 ## 📁 Folder Structure
 
