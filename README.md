@@ -10,6 +10,17 @@ This project analyzes battery cycling data, detects and removes anomalies using 
 - Visualize capacity degradation over time  
 - Ensure reliability through unit/integration testing and documentation
 
+- ## 🛠 Tools & Technologies Used
+
+- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- 🧪 **Machine Learning**: Isolation Forest, IQR (Interquartile Range)
+- 🧼 **Data Cleaning & Preprocessing**
+- 🧮 **Statistical Analysis**
+- 🧪 **Testing**: Unit Testing, Integration Testing (using Pytest)
+- 📊 **Power BI** (Interactive Dashboard)
+- 🧾 **Sphinx** (Documentation generation)
+- 📈 **Colab Notebook** (End-to-end analysis)
+
 ## 🖼️ Final Visualization Output
 
 ![Final Cleaned Smooth Discharge Curves]( https://github.com/SubrinaSabur/-Battery-Data-Analytics-and-Lab-Automation/blob/main/Final%20Cleaned%20Smooth%20Discharge%20Curves.png)
