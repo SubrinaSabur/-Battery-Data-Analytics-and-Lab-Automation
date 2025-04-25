@@ -1,5 +1,19 @@
 # Battery-Data-Analytics-and-Lab-Automation
 This project analyzes battery cycling data, detects and removes anomalies using machine learning and statistical methods, and visualizes results using Power BI. It also includes unit and integration testing (Pytest), and Sphinx-based documentation.
+
+---
+
+## 🎯 Objective
+
+- Detect outliers and noisy cycles in battery discharge data  
+- Apply machine learning and statistical methods for data cleaning  
+- Visualize capacity degradation over time  
+- Ensure reliability through unit/integration testing and documentation
+
+## 🖼️ Final Visualization Output
+
+![Final Cleaned Smooth Discharge Curves](https://github.com/SubrinaSabur/Battery-Data-Analytics/blob/main/docs/images/final_discharge_curve.png)
+
 ## 📁 Folder Structure
 
 - `data/`: Raw and cleaned data files  
@@ -25,7 +39,11 @@ This project analyzes battery cycling data, detects and removes anomalies using 
 
 ## 🧪 Testing
 
-Pytest has been used for both unit and integration testing of core functions.
+This project includes:
+
+✅ Unit tests for individual functions
+
+✅ Integration tests for pipeline flow
 
 ## 📊 Power BI Dashboard
 
@@ -36,3 +54,18 @@ You can view the interactive dashboard via the link below:
 
 For full code and step-by-step analysis:  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/1K0Z8tffyg1buHP3TYDOZZIuMdcmHM3T5?usp=sharing)
+
+## 📦 Complete Project Files
+🔗 [Full Drive Folder](https://drive.google.com/drive/folders/1P3pWAyh0Bk_ftkNvn70rjlycoXyfUMLd )
+
+## 📄 Documentation
+The project is documented using Sphinx and includes:
+
+Module explanations
+
+Usage instructions
+
+Architecture overview
+
+📁 Open: docs/build/html/index.html
+ 
