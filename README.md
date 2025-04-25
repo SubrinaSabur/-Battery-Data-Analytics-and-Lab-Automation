@@ -23,7 +23,8 @@ This project analyzes battery cycling data, detects and removes anomalies using 
 - `dashboard.pbix`: Power BI dashboard file  
 - `notebook.ipynb`: Analysis and pipeline in Colab  
 - `requirements.txt`: Python dependencies list  
-- `README.md`:  [This file] (https://drive.google.com/file/d/19EaSB8oYXyKtfYO4O8HWUr5LUp9D2XK9/view?usp=sharing)
+[README.md: This file](https://drive.google.com/file/d/19EaSB8oYXyKtfYO4O8HWUr5LUp9D2XK9/view?usp=sharing)
+
 
 ## 🚀 How to Run
 
